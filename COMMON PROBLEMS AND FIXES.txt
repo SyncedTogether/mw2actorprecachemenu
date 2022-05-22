@@ -1,0 +1,10 @@
+Issues With AutoPrecacher for MW2?
+
+Common problems and fixes:
+
+Misconstructed directory: You either selected the wrong file or don't have a dump folder in your mw2.
+
+Precache button won't update the file: Make sure your the folder _precache.gsc is in is called "Cinematic Mod" and is located in your mods folder
+
+IW4X/IW4M Zonebuilder won't boot up: You either don't have it installed or its renamed to something other than "iw4x.exe - Shortcut" or "iw4m.exe - Shortcut"
+
