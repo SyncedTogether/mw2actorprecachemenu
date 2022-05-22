@@ -9,3 +9,5 @@ Precache button won't update the file: Make sure your the folder _precache.gsc i
 IW4X/IW4M Zonebuilder won't boot up: You either don't have it installed or its renamed to something other than "iw4x.exe - Shortcut" or "iw4m.exe - Shortcut"
 
 Error 103: mod.ff folder is not in the /zone folder or /english folder is missing/misnamed or /mods/Cinematic mod is missing/misnamed.
+
+If zonetool doesn't dump zones, you either don't have installed or its not named "zonetool_iw4.exe" or you don't have the .dll file for it.
